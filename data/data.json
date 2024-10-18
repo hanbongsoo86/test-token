@@ -861,7 +861,7 @@
     },
     "primarys": {
       "$type": "color",
-      "$value": "{colors.yellow.500}"
+      "$value": "{colors.yellow.200}"
     },
     "accent": {
       "$type": "color",
